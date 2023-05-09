@@ -1,0 +1,12 @@
+.filter {
+  margin-bottom: 20px;
+}
+
+#price-range {
+  width: 10%;
+}
+
+#min-price,
+#max-price {
+  font-weight: bold;
+}
